@@ -88,7 +88,7 @@
 
 <summary><b>"Vamos manter contato! Você tem alguma rede social?"</b> 💬</summary><br>     
 
-🎙️ Tenho sim! Você pode me adicionar no <a src="https://www.linkedin.com/in/marianaramacciotti" alt="Linkedin de Mariana Ramacciotti" target="_blank">linkedin</a> ou me encontrar no <a src="https://www.youtube.com/c/marianaramacciotti/videos" target="_blank">youtube!</a>
+🎙️ Tenho sim! Você pode me adicionar no [linkedin](https://www.linkedin.com/in/marianaramacciotti/) ou me encontrar no [youtube](https://www.youtube.com/c/marianaramacciotti/videos)
 
 <hr>
 
