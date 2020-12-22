@@ -53,7 +53,7 @@
 
 <summary><b>"Formada em Games? Que legal! Qual seu jogo favorito?"</b>💬</summary><br> 
 
-🎙️ Ótima pergunta! Eu AMO Portal. Lembro que na época em que joguei, ficava procurando pelos mistérios e teorias da conspiração sobre o jogo; era muito divertido! Também gosto muito de Final Fantasy Tatics, Runescape, The Last of Us, Assassins Creed, Stanley Parable, Guild Wars II, Smite... Vou parar por aqui porque a lista é longa! 😂
+🎙️ Ótima pergunta! Eu AMO Portal. Lembro que na época em que joguei, ficava procurando pelos mistérios e teorias da conspiração sobre o jogo; era muito divertido! Também gosto muito de Skyrim, Final Fantasy Tatics, Runescape, The Last of Us, Assassins Creed, Stanley Parable, Guild Wars II, Smite... Vou parar por aqui porque a lista é longa! 😂
 
 </details> 
 
