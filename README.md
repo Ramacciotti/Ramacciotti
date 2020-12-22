@@ -116,7 +116,7 @@
 <!-- Pergunta 4 ---------------------------------------------->
 <details>
 
-<summary><b>"Você não teria uma sombrinha extra... né?" 💬</summary><br>     
+<summary><b>"Você não teria uma sombrinha extra... né?"</b> 💬</summary><br>     
 
 🎙️ Infelizmente não. São Paulo é uma caixinha de surpresas, quando você menos espera, cai o mundo! Mas não se preocupe, é uma chuva de verão... Logo passa!
 
