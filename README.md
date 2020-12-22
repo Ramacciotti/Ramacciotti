@@ -37,7 +37,8 @@
 
 <div align="center">
 
-[![img](/img_apresentando.jpg)]()
+<img src="img_apresentando.jpg" width="500">
+
 
 </div>
 
