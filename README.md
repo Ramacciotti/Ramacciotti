@@ -35,6 +35,12 @@
 
 🎙️ Me chamo Mariana Ramacciotti, tenho 26 anos e moro na zona norte de São Paulo. 😊 
 
+<div align="center">
+
+[![img](/img_apresentando.jpg)]()
+
+</div>
+
 </details>
 
 <hr>
@@ -87,11 +93,11 @@
 
 <summary><b>"Você tem portfólio com seus projetos?"</b> 💬</summary><br> 
 
-🎙️ Opa! Clique na imagem e você será redirecionado para o meu portifa!
+🎙️ Opa! Clique na imagem e você será redirecionado para o meu portfolio. Lá você poderá ver todos os meus trabalhos hospedados :]!
 
 <div align="center">
 
-[![img](/img1.jpg)](https://ramacciotti.github.io/site_portfolio/)
+[![img](/capa_portfolio.jpg)](https://ramacciotti.github.io/site_portfolio/)
 
 </div>
 </details>
