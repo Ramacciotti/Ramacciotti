@@ -62,14 +62,14 @@
 
 <summary>"Está estudando atualmente?" 💬</summary><br> 
 
-Sim! Estou cursando o técnico de Informática para Internet do SENAI e vou me formar lá para 2022. Como gosto de estudar, também estou fazendo outros cursos paralelos para complementar meu aprendizado :]
+🎙️ Sim! Estou cursando o técnico de Informática para Internet do SENAI e vou me formar lá para 2022. Como gosto de estudar, também estou fazendo outros cursos paralelos para complementar meu aprendizado :]
 
 <!-- Pergunta 3.A ---------------------------------------------->
 <details>
 
 <summary>"Que interessante! Quais linguagens você está aprendendo?" 💬</summary><br> 
 
-PHP, SQL, Java, C#, HTML5, CSS3, Javascript. De frameworks, estou estudando sobre Vue.js e Bootstrap! 
+🎙️ PHP, SQL, Java, C#, HTML5, CSS3, Javascript. De frameworks, estou estudando sobre Vue.js e Bootstrap! 
 
 </details>
 </details>
