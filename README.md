@@ -33,7 +33,7 @@
 
 
 
-<summary><span style="color:#6E40C9;font-weight:bold;">"Quem é você?"</span> 💬</summary><br>     
+<summary><b>"Quem é você?"</b> 💬 ================================ </summary><br>     
 
 🎙️ Me chamo Mariana Ramacciotti, tenho 26 anos e moro na zona norte de São Paulo. 😊 
 
@@ -42,16 +42,14 @@
 <!-- Pergunta 2 ---------------------------------------------->
 <details>
 
-<summary><span style="color:#6E40C9;font-weight:bold;">"Você trabalha com o quê?"</span> 💬 </summary><br> 
+<summary><b>"Você trabalha com o quê?"</b> 💬 ================================</summary><br> 
 
 🎙️ Trabalhei 5 anos como designer, mas sentia que faltava algo a mais. Me formei em Design de Games em 2018 e em 2020 finalmente tomei coragem e decidi que iria seguir carreira na área de programação! Hoje, estou estudando para me tornar uma desenvolvedora FullStack! <br>
 
 <!-- Pergunta 2.A ---------------------------------------------->
 <details>
 
-
-
-<summary><b><span style="color:#6E40C9;font-weight:bold;">"Formada em Games? Que legal! Qual seu jogo favorito?"</span> 💬</summary><br> 
+<summary><b>"Formada em Games? Que legal! Qual seu jogo favorito?"</b>💬</summary><br> 
 
 🎙️ Ótima pergunta! Eu AMO Portal. Lembro que na época em que joguei, ficava procurando pelos mistérios e teorias da conspiração sobre o jogo; era muito divertido! Também gosto muito de Final Fantasy Tatics, Runescape, The Last of Us, Assassins Creed, Stanley Parable, Guild Wars II, Smite... Vou parar por aqui porque a lista é longa! 😂
 
