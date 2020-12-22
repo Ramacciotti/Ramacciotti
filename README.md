@@ -21,8 +21,6 @@
 <p>Ainda bem que conseguiu encontrar este lugar antes de se molhar! Sente-se, vamos bater um papo até ela passar :]<p>
 </div>
 
-<br>
-
 ---
 
 <br>
