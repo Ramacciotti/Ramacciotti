@@ -33,19 +33,22 @@
 
 
 
-<summary><b>"Quem é você?"</b> 💬 ================================ </summary><br>     
+<summary><b>"Quem é você?"</b> 💬</summary><br>     
 
 🎙️ Me chamo Mariana Ramacciotti, tenho 26 anos e moro na zona norte de São Paulo. 😊 
 
 </details>
 
+<hr>
+
 <!-- Pergunta 2 ---------------------------------------------->
 <details>
 
-<summary><b>"Você trabalha com o quê?"</b> 💬 ================================</summary><br> 
+<summary><b>"Você trabalha com o quê?"</b> 💬</summary><br> 
 
 🎙️ Trabalhei 5 anos como designer, mas sentia que faltava algo a mais. Me formei em Design de Games em 2018 e em 2020 finalmente tomei coragem e decidi que iria seguir carreira na área de programação! Hoje, estou estudando para me tornar uma desenvolvedora FullStack! <br>
 
+<hr>
 <!-- Pergunta 2.A ---------------------------------------------->
 <details>
 
@@ -57,12 +60,16 @@
 
 </details>
 
+<hr>
+
 <!-- Pergunta 3 ---------------------------------------------->
 <details>
 
 <summary><b>"Está estudando atualmente?"</b> 💬</summary><br> 
 
 🎙️ Sim! Estou cursando o técnico de Informática para Internet do SENAI e vou me formar lá para 2022. Como gosto de estudar, também estou fazendo outros cursos paralelos para complementar meu aprendizado :]
+
+<hr>
 
 <!-- Pergunta 3.A ---------------------------------------------->
 <details>
@@ -74,12 +81,16 @@
 </details>
 </details>
 
+<hr>
+
 <!-- Pergunta 5 ---------------------------------------------->
 <details>
 
 <summary><b>"Vamos manter contato! Você tem alguma rede social?"</b> 💬</summary><br>     
 
 🎙️ Tenho sim! Você pode me adicionar no <a src="https://www.linkedin.com/in/marianaramacciotti" alt="Linkedin de Mariana Ramacciotti" target="_blank">linkedin</a> ou me encontrar no <a src="https://www.youtube.com/c/marianaramacciotti/videos" target="_blank">youtube!</a>
+
+<hr>
 
 <!-- Pergunta 5.A ---------------------------------------------->
 <details>
@@ -99,6 +110,8 @@
 </details>
 
 </details>
+
+<hr>
 
 <!-- Pergunta 4 ---------------------------------------------->
 <details>
