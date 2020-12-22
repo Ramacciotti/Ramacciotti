@@ -10,7 +10,7 @@
 <!-- Gif xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx-->
 <div align="center">
 
-<img src="https://moonbh.com.br/wp-content/uploads/2015/11/tumblr_mg0vn7m2PH1repjrpo1_500.gif" alt="drawing" width="500"/>
+<img src="https://moonbh.com.br/wp-content/uploads/2015/11/tumblr_mg0vn7m2PH1repjrpo1_500.gif" alt="chuva" width="500"/>
 
 </div>
 
@@ -31,8 +31,6 @@
 <!-- Pergunta 1 ---------------------------------------------->
 <details>
 
-
-
 <summary><b>"Quem é você?"</b> 💬</summary><br>     
 
 🎙️ Me chamo Mariana Ramacciotti, tenho 26 anos e moro na zona norte de São Paulo. 😊 
@@ -49,6 +47,7 @@
 🎙️ Trabalhei 5 anos como designer, mas sentia que faltava algo a mais. Me formei em Design de Games em 2018 e em 2020 finalmente tomei coragem e decidi que iria seguir carreira na área de programação! Hoje, estou estudando para me tornar uma desenvolvedora FullStack! <br>
 
 <hr>
+
 <!-- Pergunta 2.A ---------------------------------------------->
 <details>
 
@@ -83,6 +82,21 @@
 
 <hr>
 
+<!-- Pergunta 4 ---------------------------------------------->
+<details>
+
+<summary><b>"Você tem portfólio com seus projetos?"</b> 💬</summary><br> 
+
+🎙️ Opa! Clique na imagem e você será redirecionado para o meu portifa!
+
+<div align="center">
+
+[![img](/img1.jpg)](https://ramacciotti.github.io/site_portfolio/)
+
+</div>
+</details>
+
+<hr>
 <!-- Pergunta 5 ---------------------------------------------->
 <details>
 
