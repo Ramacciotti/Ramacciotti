@@ -35,13 +35,6 @@
 
 🎙️ Me chamo Mariana Ramacciotti, tenho 26 anos e moro na zona norte de São Paulo. 😊 
 
-<div align="center">
-
-<img src="img_apresentando.jpg" width="500">
-
-
-</div>
-
 </details>
 
 <hr>
@@ -139,7 +132,7 @@
 
 <summary><b>"Você não teria uma sombrinha extra... né?"</b> 💬</summary><br>     
 
-🎙️ Infelizmente não. São Paulo é uma caixinha de surpresas, quando você menos espera, cai o mundo! Mas não se preocupe, é uma chuva de verão... Logo passa!
+🎙️ Infelizmente não D: São Paulo é uma caixinha de surpresas, quando você menos espera, cai o mundo! Mas não se preocupe, é uma chuva de verão... Logo passa!
 
 </details><br>
 
