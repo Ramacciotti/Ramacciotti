@@ -33,7 +33,7 @@
 
 <summary><b>"Quem é você?"</b> 💬</summary><br>     
 
-🎙️ Me chamo Mariana Ramacciotti, tenho 26 anos e moro na zona norte de São Paulo. 😊 
+🎙️ Me chamo Mariana Ramacciotti, tenho 26 anos e moro em São Paulo. 😊 
 
 </details>
 
