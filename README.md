@@ -33,7 +33,7 @@
 
 <summary><b>"Quem é você?"</b> 💬</summary><br>     
 
-🎙️ Me chamo Mariana Ramacciotti, tenho 26 anos e moro em São Paulo. 😊 
+🎙️ Me chamo Mariana Ramacciotti e moro em São Paulo. 😊 
 
 </details>
 
@@ -42,52 +42,26 @@
 <!-- Pergunta 2 ---------------------------------------------->
 <details>
 
-<summary><b>"Você trabalha com o quê?"</b> 💬</summary><br> 
+<summary><b>"Você trabalha onde e com o quê?"</b> 💬</summary><br> 
 
-🎙️ Trabalhei 5 anos como designer, mas sentia que faltava algo a mais. Me formei em Design de Games em 2018 e em 2020 finalmente tomei coragem e decidi que iria seguir carreira na área de programação! Hoje, estou estudando para me tornar uma desenvolvedora FullStack! <br>
+🎙️ Hoje sou analista de sistemas jr na Midway (do grupo Riachuelo), e atuo como fullstack. Essa conquista ocorreu em Maio de 2021, quando passei no processo seletivo do Up!Tech, programa de aceleração de carreiras profissionais em tecnologia da Riachuelo. A turma piloto, com apenas 20 vagas, teve mais de 3000 inscrições e disponibilizava trilhas com treinamentos ao vivo, atividades práticas e acesso a conteúdos virtuais do portfólio da Universidade Riachuelo e da plataforma da Alura. <br>
 
 <hr>
 
-<!-- Pergunta 2.A ---------------------------------------------->
+<!-- Pergunta 2 ---------------------------------------------->
 <details>
 
-<summary><b>"Formada em Games? Que legal! Qual seu jogo favorito?"</b>💬</summary><br> 
+<summary><b>"Está estudando atualmente?"</b> 💬</summary><br> 
 
-🎙️ Ótima pergunta! Eu AMO Portal. Lembro que na época em que joguei, ficava procurando pelos mistérios e teorias da conspiração sobre o jogo; era muito divertido! Também gosto muito de Skyrim, Final Fantasy Tatics, Runescape, The Last of Us, Assassins Creed, Stanley Parable, Guild Wars II, Smite... Vou parar por aqui porque a lista é longa! 😂
-
-</details> 
-
-</details>
-
+🎙️ Sim! Estou cursando o técnico de Informática para Internet do SENAI e vou me formar lá para 2022. Também fui selecionada pela empresa para ganhar acesso ao Udemy Business, e meus líderes (da squad) criaram uma trilha de cursos específica para minha carreira.
 <hr>
 
 <!-- Pergunta 3 ---------------------------------------------->
 <details>
 
-<summary><b>"Está estudando atualmente?"</b> 💬</summary><br> 
-
-🎙️ Sim! Estou cursando o técnico de Informática para Internet do SENAI e vou me formar lá para 2022. Como gosto de estudar, também estou fazendo outros cursos paralelos para complementar meu aprendizado :]
-
-<hr>
-
-<!-- Pergunta 3.A ---------------------------------------------->
-<details>
-
-<summary><b>"Que interessante! Quais linguagens você está aprendendo?"</b> 💬</summary><br> 
-
-🎙️ PHP, SQL, Java, C#, HTML5, CSS3, Javascript. De frameworks, estou estudando sobre Vue.js e Bootstrap! 
-
-</details>
-</details>
-
-<hr>
-
-<!-- Pergunta 4 ---------------------------------------------->
-<details>
-
 <summary><b>"Você tem portfólio com seus projetos?"</b> 💬</summary><br> 
 
-🎙️ Opa! Clique na imagem e você será redirecionado para o meu portfolio. Lá você poderá ver todos os meus trabalhos hospedados :]!
+🎙️ Opa! Clique na imagem e você será redirecionado para o meu portfolio. Lá você poderá ver todos os meus trabalhos hospedados :)!
 
 <div align="center">
 
@@ -97,7 +71,7 @@
 </details>
 
 <hr>
-<!-- Pergunta 5 ---------------------------------------------->
+<!-- Pergunta 4 ---------------------------------------------->
 <details>
 
 <summary><b>"Vamos manter contato! Você tem alguma rede social?"</b> 💬</summary><br>     
@@ -106,7 +80,7 @@
 
 <hr>
 
-<!-- Pergunta 5.A ---------------------------------------------->
+<!-- Pergunta 4.A ---------------------------------------------->
 <details>
 
 <summary><b>"Você tem canal no youtube? 😮 Quais vídeos você já tem?"</b> 💬</summary><br>      
@@ -127,7 +101,7 @@
 
 <hr>
 
-<!-- Pergunta 4 ---------------------------------------------->
+<!-- Pergunta 5 ---------------------------------------------->
 <details>
 
 <summary><b>"Você não teria uma sombrinha extra... né?"</b> 💬</summary><br>     
