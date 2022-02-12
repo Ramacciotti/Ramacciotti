@@ -10,7 +10,7 @@
 <!-- Gif xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx-->
 <div align="center">
 
-<img src="https://moonbh.com.br/wp-content/uploads/2015/11/tumblr_mg0vn7m2PH1repjrpo1_500.gif" alt="chuva" width="500"/>
+<img src="https://data.whicdn.com/images/324718162/original.gif" alt="chuva" width="500"/>
 
 </div>
 
