@@ -44,19 +44,32 @@
 
 <summary><b>"Você trabalha onde e com o quê?"</b> 💬</summary><br> 
 
-🎙️ Hoje sou analista de sistemas jr na Midway (do grupo Riachuelo), e atuo como fullstack. Essa conquista ocorreu em Maio de 2021, quando passei no processo seletivo do Up!Tech, programa de aceleração de carreiras profissionais em tecnologia da Riachuelo. A turma piloto, com apenas 20 vagas, teve mais de 3000 inscrições e disponibilizava trilhas com treinamentos ao vivo, atividades práticas e acesso a conteúdos virtuais do portfólio da Universidade Riachuelo e da plataforma da Alura. <br>
+🎙️ Hoje sou analista de sistemas jr na Midway (do grupo Riachuelo), e atuo como fullstack. Essa conquista ocorreu em Maio de 2021, quando passei no processo seletivo do Up!Tech, programa de aceleração de carreiras profissionais em tecnologia da Riachuelo. <br>
 
 <hr>
+  
+<!-- Pergunta 2.A ---------------------------------------------->
+<details>
 
-<!-- Pergunta 2 ---------------------------------------------->
+<summary><b>"Uptech? Fale um pouco mais sobre esse programa, por favor!"</b> 💬</summary><br> 
+
+🎙️ A turma piloto, da qual eu participei, teve apenas 20 vagas para mais de 3000 inscrições. Na trilha fullstack, que foi a que cursei, eles disponibilizaram treinamentos ao vivo, atividades práticas e acesso a conteúdos virtuais do portfólio da Universidade Riachuelo e da plataforma da Alura. Fiz uma propaganda do programa na página do Linkedin da Riachuelo, confira aqui: https://www.linkedin.com/feed/update/urn:li:activity:6871891453564526592/
+  
+<hr>
+  
+</details>
+
+<!-- Pergunta 3 ---------------------------------------------->
 <details>
 
 <summary><b>"Está estudando atualmente?"</b> 💬</summary><br> 
 
 🎙️ Sim! Estou cursando o técnico de Informática para Internet do SENAI e vou me formar lá para 2022. Também fui selecionada pela empresa para ganhar acesso ao Udemy Business, e meus líderes (da squad) criaram uma trilha de cursos específica para minha carreira.
 <hr>
+  
+</details>
 
-<!-- Pergunta 3 ---------------------------------------------->
+<!-- Pergunta 4 ---------------------------------------------->
 <details>
 
 <summary><b>"Você tem portfólio com seus projetos?"</b> 💬</summary><br> 
