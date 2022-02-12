@@ -33,8 +33,16 @@
 
 <summary><b>"Quem é você?"</b> 💬</summary><br>     
 
-🎙️ Me chamo Mariana Ramacciotti e moro em São Paulo. 😊 
+🎙️ Me chamo Mariana Ramacciotti e moro em São Paulo. Sou Analista de Sistemas Jr na Midway (do grupo Riachuelo), e atuo como fullstack Web. 
 
+<!-- Pergunta 1.A ---------------------------------------------->
+<details>
+
+<summary><b>"Fullstack? O que é isso?"</b> 💬</summary><br>     
+
+🎙️ É o(a) profissional que tem o domínio de duas competências básicas para o desenvolvimento: front-end e back-end. Ou seja, trabalho com sites na parte que o usuário vê, e também nas partes que ele não vê!
+
+</details>
 </details>
 
 <hr>
@@ -42,26 +50,18 @@
 <!-- Pergunta 2 ---------------------------------------------->
 <details>
 
-<summary><b>"Você trabalha onde e com o quê?"</b> 💬</summary><br> 
+<summary><b>"Ouvi você comentar algo sobre o Up!Tech. Pode me falar mais sobre isso?"</b> 💬</summary><br> 
 
-🎙️ Hoje sou analista de sistemas jr na Midway (do grupo Riachuelo), e atuo como fullstack. Essa conquista ocorreu em Maio de 2021, quando passei no processo seletivo do Up!Tech, programa de aceleração de carreiras profissionais em tecnologia da Riachuelo. <br>
+🎙️ Ah, sim! Essa conquista ocorreu em Maio de 2021, quando passei no processo seletivo do Up!Tech, programa de aceleração de carreiras profissionais em tecnologia da Riachuelo. 😊 
 
-<hr>
+🎙️ A turma piloto, da qual eu participei, teve apenas 20 vagas para mais de 3000 inscrições. Na trilha fullstack, que foi a que cursei, eles disponibilizaram treinamentos ao vivo, atividades práticas e acesso a conteúdos virtuais do portfólio da Universidade Riachuelo e da plataforma da Alura. 
   
-<!-- Pergunta 2.A ---------------------------------------------->
-<details>
-
-<summary><b>"Uptech? Fale um pouco mais sobre esse programa, por favor!"</b> 💬</summary><br> 
-
-🎙️ A turma piloto, da qual eu participei, teve apenas 20 vagas para mais de 3000 inscrições. Na trilha fullstack, que foi a que cursei, eles disponibilizaram treinamentos ao vivo, atividades práticas e acesso a conteúdos virtuais do portfólio da Universidade Riachuelo e da plataforma da Alura. Fiz uma propaganda do programa na página do Linkedin da Riachuelo, confira aqui: https://www.linkedin.com/feed/update/urn:li:activity:6871891453564526592/
-  
-<hr>
+🎙️ Eu cheguei a fazer uma propaganda do programa na página do Linkedin da Riachuelo, se quiser dar uma olhada: https://www.linkedin.com/feed/update/urn:li:activity:6871891453564526592/
   
 </details>
-</details>
   
 <hr>
-
+  
 <!-- Pergunta 3 ---------------------------------------------->
 <details>
 
@@ -89,6 +89,7 @@
 </details>
 
 <hr>
+  
 <!-- Pergunta 4 ---------------------------------------------->
 <details>
 
