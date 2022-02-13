@@ -2,7 +2,7 @@
 <!-- Titulo xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx-->
 <div id="Titulo" align="center">
 
-## **Que chuva! 😮** 
+## **What a rain! 😮** 
 </div>
 
 <br>
@@ -18,7 +18,7 @@
 
 <!-- Subtitulo xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx-->
 <div id="Subtitulo" align="center">
-<p>Ainda bem que conseguiu encontrar este lugar antes de se molhar! Sente-se, vamos bater um papo até ela passar :]<p>
+<p>Glad you managed to find this place before you got wet! Sit down, let's chat until it passes :)<p>
 
 
 </div>
@@ -31,17 +31,17 @@
 <!-- Pergunta 1 ---------------------------------------------->
 <details>
 
-<summary><b>"Quem é você?"</b> 💬</summary><br>     
+<summary><b>"Who are you?"</b> 💬</summary><br>     
 
-🎙️ Me chamo Mariana Ramacciotti e moro em São Paulo. Sou Analista de Sistemas Jr na Midway (do grupo Riachuelo), e atuo como fullstack Web. 
+🎙️ My name is Mariana Ramacciotti and I live in São Paulo - Brazil. I'm a Junior Systems Analyst at Midway (from the Riachuelo group), and I work as a fullstack Web!
 
 <!-- Pergunta 1.A ---------------------------------------------->
 <details>
 
-<summary><b>"Fullstack? O que é isso?"</b> 💬</summary><br>     
+<summary><b>"Fullstack? What is it?"</b> 💬</summary><br>     
 
-🎙️ É o(a) profissional que tem o domínio de duas competências básicas para o desenvolvimento: front-end e back-end. Ou seja, trabalho com sites na parte que o usuário vê, e também nas partes que ele não vê!
-
+🎙️ I´s the professional who has two basic skills for development: front-end and back-end. Long story short, I work with websites: with the part that the user sees (frontend), and also with the parts that the user doesn´t see (backend)!
+  
 </details>
 </details>
 
@@ -50,13 +50,13 @@
 <!-- Pergunta 2 ---------------------------------------------->
 <details>
 
-<summary><b>"Ouvi você comentar algo sobre o Up!Tech. Pode me falar mais sobre isso?"</b> 💬</summary><br> 
+<summary><b>"I heard you say something about Up!Tech. Can you tell me more about this?"</b> 💬</summary><br> 
 
-🎙️ Ah, sim! Essa conquista ocorreu em Maio de 2021, quando passei no processo seletivo do Up!Tech, programa de aceleração de carreiras profissionais em tecnologia da Riachuelo. 😊 
+🎙️ Ah, yes! This achievement took place in May 2021, when I passed the selection process for Up!Tech, Riachuelo's program to accelerate professional careers in technology. 😊 
 
-🎙️ A turma piloto, da qual eu participei, teve apenas 20 vagas para mais de 3000 inscrições. Na trilha fullstack, que foi a que cursei, eles disponibilizaram treinamentos ao vivo, atividades práticas e acesso a conteúdos virtuais do portfólio da Universidade Riachuelo e da plataforma da Alura. 
+🎙️ The pilot class, in which I participated, had only 20 spots for more than 3000 entries. On the full stack track, which was the one I took, they provided live training, practical activities and access to virtual content from the Riachuelo University portfolio and the Alura platform. 
   
-🎙️ Eu cheguei a fazer uma propaganda do programa na página do Linkedin da Riachuelo, se quiser dar uma olhada: https://www.linkedin.com/feed/update/urn:li:activity:6871891453564526592/
+🎙️ I even advertised the program on Riachuelo's Linkedin page, if you want to take a look: https://www.linkedin.com/feed/update/urn:li:activity:6871891453564526592/
   
 </details>
   
@@ -65,9 +65,10 @@
 <!-- Pergunta 3 ---------------------------------------------->
 <details>
 
-<summary><b>"Está estudando atualmente?"</b> 💬</summary><br> 
+<summary><b>"Are you currently studying?"</b> 💬</summary><br> 
 
-🎙️ Sim! Estou cursando o técnico de Informática para Internet do SENAI e vou me formar lá para 2022. Também fui selecionada pela empresa para ganhar acesso ao Udemy Business, e meus líderes (da squad) criaram uma trilha de cursos específica para minha carreira.
+🎙️ Yea! I'm studying Information Technology for web at SENAI. I was also selected by Midway to gain access to Udemy Business, and my squad leaders created a specific course path for my career.
+  
 <hr>
   
 </details>
@@ -77,9 +78,9 @@
 <!-- Pergunta 4 ---------------------------------------------->
 <details>
 
-<summary><b>"Você tem portfólio com seus projetos?"</b> 💬</summary><br> 
+<summary><b>"Do you have a portfolio with your projects?"</b> 💬</summary><br> 
 
-🎙️ Opa! Clique na imagem e você será redirecionado para o meu portfolio. Lá você poderá ver todos os meus trabalhos hospedados :)!
+🎙️ I do have it! Click on the image below and you will be redirected to my portfolio. There you can see all my projects before I passed the Up!Tech program! (I'm still looking for time to create new ones)
 
 <div align="center">
 
@@ -93,16 +94,16 @@
 <!-- Pergunta 4 ---------------------------------------------->
 <details>
 
-<summary><b>"Vamos manter contato! Você tem alguma rede social?"</b> 💬</summary><br>     
+<summary><b>"Let's keep in touch! Do you have any social networks?"</b> 💬</summary><br>     
 
-🎙️ Tenho sim! Você pode me adicionar no [linkedin](https://www.linkedin.com/in/marianaramacciotti/) ou me encontrar no [youtube](https://www.youtube.com/c/marianaramacciotti/videos)
+🎙️ Yes I have! You can add me on [linkedin](https://www.linkedin.com/in/marianaramacciotti/) or found me on [youtube](https://www.youtube.com/c/marianaramacciotti/videos)
 
 <hr>
 
 <!-- Pergunta 4.A ---------------------------------------------->
 <details>
 
-<summary><b>"Você tem canal no youtube? 😮 Quais vídeos você já tem?"</b> 💬</summary><br>      
+<summary><b>"Do you have a youtube channel? 😮 What videos do you already have?"</b> 💬</summary><br>      
 
 🎙️ [Lista de Contatos com o Framework Vue.js](https://www.youtube.com/watch?v=Y9AY0yzHFLI&t=5s&ab_channel=MarianaRamacciotti)
 
@@ -123,9 +124,9 @@
 <!-- Pergunta 5 ---------------------------------------------->
 <details>
 
-<summary><b>"Você não teria uma sombrinha extra... né?"</b> 💬</summary><br>     
+<summary><b>"You wouldn't have an extra umbrella... would you?"</b> 💬</summary><br>     
 
-🎙️ Infelizmente não D: São Paulo é uma caixinha de surpresas, quando você menos espera, cai o mundo! Mas não se preocupe, é uma chuva de verão... Logo passa!
+🎙️ I don´t have one :( But you can stay as long as you like! 
 
 </details><br>
 
