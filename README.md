@@ -1,21 +1,15 @@
 ## Welcome! 
 
-💻 I started my career in the IT as a Systems Analyst in June 2021, when I was selected for the first class of Up!Tech: Riachuelo's career program. Since then, my focus has been to develop systems with quality and performance, using good practices and design patterns to obtain greater readability and facilitate code maintenance.
+🚀 I started my career in the IT area as a Systems Analyst in June 2021, when I was selected for the first class of Up!Tech: career acceleration program. Since then, my focus has been on developing systems with quality and performance, using good practices and design patterns to achieve greater readability and facilitate code maintenance.
 
-🎓 In October 2022, I started an MBA in Software Architecture and Solutions; learning to implement high-performance architectures considering significant aspects such as functionality, performance, resiliency, reusability, understanding, scalability, security, technology constraints and trade-offs.
+💵 During these years, I actively contributed to the implementation of phases 1 and 2 of Open Finance at Midway. In phase 1, I was responsible for creating APIs to store non-sensitive data from institutions, loans and credit cards in PostgreSQL. In phase 2, I focused on developing APIs to store and transmit customer and account registration data using AWS DynamoDB. Additionally, I also worked on integrating APIs and ensuring communication efficiency between different microservices.
 
-👓 I appreciate constantly learning; sharing, collaborating, innovating and delivering value to the company. My experience includes:
+💼 One of the most interesting points in my career as a developer was the creation of unit/integration tests for the PIX payment flow API through Open Finance, which strengthened my Java skills. I was also responsible for creating the company's Developer Portal POC, allowing Swagger to upload other teams' APIs to Amazon S3. Sonar Cloud, Rancher and Azure DevOps are other tools I also work with.
 
-* Develop API's Crud Restfull;
-* Perform data modeling in relational banks;
-* Create login and registration systems with Amazon Cognito;
-* Integrate projects with Amazon S3 buckets;
-* Create services according to business rules;
-* Develop new features and implement fixes;
-* Run tests to ensure software quality;
-* Participate in the rites of agile methodology, being part of multifunctional teams;
+🌻 Complementing my experience, I am studying the Technologist in "Quality of Life and Contemporaneity" to enable me, as a systems analyst, to better understand and manage interpersonal relationships, collaborate more efficiently in multidisciplinary teams and understand demands more comprehensively and customer requirements.
 
-### Social Media
+- Email: marrie.ciotti@gmail.com
+- Github: https://github.com/Ramacciotti
+- Youtube Channel: https://www.youtube.com/c/marianaramacciotti/videos
 
-📋 [Linkedin](https://www.linkedin.com/in/marianaramacciotti/)
-🎞 [Youtube Channel](https://www.youtube.com/c/marianaramacciotti/videos)
+#SoftwareDeveloper #Java #Backend #Web #AWS #DynamoDB #APIIntegration #Scrum #Technology #AzureDevops
