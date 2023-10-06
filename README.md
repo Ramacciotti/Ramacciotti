@@ -6,8 +6,6 @@
 
 💼 One of the most interesting points in my career as a developer was the creation of unit/integration tests for the PIX payment flow API through Open Finance, which strengthened my Java skills. I was also responsible for creating the company's Developer Portal POC, allowing Swagger to upload other teams' APIs to Amazon S3. Sonar Cloud, Rancher and Azure DevOps are other tools I also work with.
 
-🌻 Complementing my experience, I am studying the Technologist in "Quality of Life and Contemporaneity" to enable me, as a systems analyst, to better understand and manage interpersonal relationships, collaborate more efficiently in multidisciplinary teams and understand demands more comprehensively and customer requirements.
-
 - Email: marrie.ciotti@gmail.com
 - Github: https://github.com/Ramacciotti
 - Youtube Channel: https://www.youtube.com/c/marianaramacciotti/videos
