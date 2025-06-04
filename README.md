@@ -1,6 +1,6 @@
 <div align="center">
   
-![Rain GIF](https://giffiles.alphacoders.com/131/13166.gif)
+<img src="https://giffiles.alphacoders.com/131/13166.gif" width="800px" />
 
 ## **What a rain! 😮** 
 
